@@ -1,6 +1,6 @@
 ---
 title: The beast within ones chest
-date: 2023-12-18 12:00:00 +1030
+date: 2023-08-08 12:00:00 +1030
 categories: [philosophy]
 tags: [meaning, poem]     # TAG names should always be lowercase
 ---
