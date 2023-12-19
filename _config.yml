@@ -76,9 +76,9 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets\img\profile\profileImage.jpg
+#avatar: assets\img\profile\profileImage.jpg
 
-#avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlyucGBQA6Z1IpuYOI08NEoP_ZwH12JdJD31YYWHKsydm7PjAED2yXjOhGYXpHLYDnDtg&usqp=CAU
+avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlyucGBQA6Z1IpuYOI08NEoP_ZwH12JdJD31YYWHKsydm7PjAED2yXjOhGYXpHLYDnDtg&usqp=CAU
 
 
 # boolean type, the global switch for TOC in posts.
