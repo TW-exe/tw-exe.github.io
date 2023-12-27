@@ -1,6 +1,5 @@
 ---
 title: The death of man and the birth of gods
-#subtitle: How do we compare to the gods above
 date: 2023-02-002 12:00:00 +1030
 categories: [philosophy]
 tags: [meaning, religion, existensialism]     # TAG names should always be lowercase
