@@ -78,7 +78,8 @@ img_cdn:
 # the avatar on sidebar, support local or CORS resources
 #avatar: assets\img\profile\profileImage.jpg
 
-avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlyucGBQA6Z1IpuYOI08NEoP_ZwH12JdJD31YYWHKsydm7PjAED2yXjOhGYXpHLYDnDtg&usqp=CAU
+# avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlyucGBQA6Z1IpuYOI08NEoP_ZwH12JdJD31YYWHKsydm7PjAED2yXjOhGYXpHLYDnDtg&usqp=CAU
+avatar: https://preview.redd.it/looking-for-something-similar-to-siekiera-nowa-aleksandria-v0-lnxn14v8tuka1.png?auto=webp&s=63eb4d34ce26811ce843ee5a03973e74a89544ad
 
 
 # boolean type, the global switch for TOC in posts.
