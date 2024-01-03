@@ -2,7 +2,7 @@
 title: A game to play
 date: 2023-12-18 12:00:00 +1030
 categories: [philosophy]
-tags: [consumerism, meaning, nihilism, freedom]     # TAG names should always be lowercase
+tags: [meaning, nihilism, freedom]     # TAG names should always be lowercase
 ---
 
 ## People of the free
